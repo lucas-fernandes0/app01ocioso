@@ -4,6 +4,23 @@
     "start_url":"/",
     "display":"standalone",//faz o aplicativo abrir como aplicativo independente
     "background_color":"#ffffff",//cor de fundo no carregamento do app
-    "theme_color":"#000000"//cor da barra de status
+    "theme_color":"#000000",//cor da barra de status
+    "description":"Esse é o app dos estudantes do 3 de sistemas 2025",
+    "id":"portfolio-app",
+    "dir":"ltr",
+    "lang":"pt-BR",
+    "icons":[
+        {
+            "src":"/icon-192.png",
+            "size":"192x192",
+            "type":"image/png"
+        },
+
+        {
+            "src":"/icon-512.png",
+            "size":"512x512",
+            "type":"image/png"
+        }
+    ]
     
 }
